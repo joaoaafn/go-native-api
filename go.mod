@@ -1,3 +1,3 @@
-module github.com/joaoaafn/go-native-api
+module github.com/joaoaafn/goNativeApi
 
 go 1.22.7
